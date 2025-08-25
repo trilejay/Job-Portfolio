@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is a full-stack personal portfolio website built using the MERN stack (MongoDB, Express.js, React, and Node.js). It showcases dynamic and reusable components, server-side logic, and a fully responsive design to ensure an optimized user experience on various devices.
+This is a full-stack personal portfolio website built using MERN. It showcases dynamic and reusable components, server-side logic, and a responsive frontend
 
 ## Purpose
 - The portfolio showcases personal projects, job experience, and skills learned regarding web development.
