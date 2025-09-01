@@ -11,7 +11,6 @@ This is a full-stack personal portfolio website built using MERN. It showcases d
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 
 ## Features
