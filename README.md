@@ -15,10 +15,10 @@ This is a full-stack personal portfolio website built using MERN. It showcases d
 - [Screenshots](#screenshots)
 
 ## Features
-- **Dynamic and Reusable Components:** Developed using React to build an interactive UI and streamline development.
+- **Dynamic and Reusable Components:** Developed using React to build an interactive UI.
 - **RESTful API:** Implemented with Node.js and Express.js to manage server routes and asynchronous requests.
 - **Database Integration:** MongoDB provides flexibility for storing and managing dynamic content.
-- **Responsive Design:** Ensures compatibility across various devices and screen sizes, offering a seamless user experience.
+- **Responsive Design:** Ensures compatibility across various devices and screen sizes.
 
 ## Technologies Used
 - **Frontend:** React, JavaScript, HTML5, CSS3
