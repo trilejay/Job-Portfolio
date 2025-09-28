@@ -1,6 +1,6 @@
 # Work Experience Tracker
 
-This is a full-stack personal portfolio website built using MERN. It showcases dynamic and reusable components, server-side logic, and a responsive frontend
+This is a full-stack personal portfolio website with a . It showcases dynamic and reusable components, server-side logic, and a responsive frontend
 
 ## Purpose
 - The portfolio showcases personal projects, job experience, and skills learned regarding web development.
@@ -24,6 +24,7 @@ This is a full-stack personal portfolio website built using MERN. It showcases d
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Build Tool:** Vite for faster development and build times
+- **Containerization and Orchestration:** Docker and Kubernetes
 
 ## Screenshots
 <img width="624" alt="Screenshot 2024-08-09 at 4 15 31 PM" src="https://github.com/user-attachments/assets/a2beb4df-1876-47c4-b0bc-29a6c7923506">
