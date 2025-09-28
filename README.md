@@ -1,11 +1,11 @@
 # Work Experience Tracker
 
-This is a full-stack personal portfolio website with a . It showcases dynamic and reusable components, server-side logic, and a responsive frontend
+This is a full-stack personal portfolio website with dynamic and reusable components and a responsive frontend UI.
 
-## Purpose
-- The portfolio showcases personal projects, job experience, and skills learned regarding web development.
+## Functionality
+- The portfolio includes a table that can be used to input personal projects, job experience, and skills learned.
 - CRUD operations can be managed for dynamic content updates.
-- Users can navigate the website across multiple devices due to its responsive design.
+- Users can navigate the website across multiple devices seamlessly due to its responsive design.
 
 
 ## Table of Contents
